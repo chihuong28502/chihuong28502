@@ -1,15 +1,15 @@
 # Hi there! 👋
 
-I’m [Your Name] – a passionate software engineer and lifelong learner! 🚀
+I’m Nguyễn Chí Hưởng – a passionate software engineer and lifelong learner! 🚀
 
-- 🔭 I’m currently working on: **[Your Current Project]**
-- 🌱 I’m currently learning: **[Technology you are learning]**
-- 💬 Ask me about: **[Your Expertise]**
-- 📫 How to reach me: [your email]
-- ⚡ Fun fact: [something fun about you]
+- 🔭 I’m currently working on: **Bio Microservices Project**
+- 🌱 I’m currently learning: **Microservices Architecture with NestJS**
+- 💬 Ask me about: **Backend Development, Microservices, Docker, and CI/CD**
+- 📫 How to reach me: [bigbang02xz@gmail.com](mailto:bigbang02xz@gmail.com)
+- ⚡ Fun fact: I love exploring new tech and enjoy playing games.
 
 ### 🌟 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical)
+![Nguyễn Chí Hưởng's GitHub stats](https://github-readme-stats.vercel.app/api?username=madara02xz&show_icons=true&theme=radical)
 
 ### 📊 Weekly Coding Stats
 <!--START_SECTION:waka-->
@@ -27,5 +27,5 @@ I’m [Your Name] – a passionate software engineer and lifelong learner! 🚀
 </p>
 
 ### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-chi-huong)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bigbang02xz@gmail.com)
