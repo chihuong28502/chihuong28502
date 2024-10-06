@@ -40,9 +40,9 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ToiYour&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ToiYour&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ToiYour&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=chihuong28502&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=chihuong28502&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chihuong28502&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=ToiYour&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=chihuong28502&theme=radical&no-frame=false&no-bg=false&margin-w=4)
