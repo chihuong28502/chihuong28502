@@ -17,12 +17,6 @@
       <li>🔭 Currently coding in JavaScript and TypeScript.</li>
     </ul>
   </div>
-  
-  <!-- Right Column (Image) -->
-  <div style="flex: 1; text-align: right;">
-    <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  </div>
-</div>
 
 ## 🌐 Connect with Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/futurefolde)
