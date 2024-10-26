@@ -12,7 +12,7 @@
   <!-- Left Column -->
   <div style="flex: 1; padding-right: 20px;">
     <ul>
-      <li>🎓 I am a student at University of Transport Technology (UTT)</li>
+      <li>🎓 I graduated from the University of Transport Technology (UTT).</li>
       <li>📚 My major is Web Development.</li>
       <li>🔭 Currently coding in JavaScript and TypeScript.</li>
     </ul>
