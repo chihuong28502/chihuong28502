@@ -37,7 +37,16 @@
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/AntDesign-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%237B83B1.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/JWT-%232E7BB4.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Socket.io-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/MicrosoftSQLServer-%23479BC0.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="30"/>
 </p>
+
 
 ## ⚙️ Tools
 <p align="left">
