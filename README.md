@@ -1,4 +1,4 @@
-# Hey there! I'm Nguyen Chi Huong! 👋
+# Hey there! I'm Nguyen Chi Huong! 👋 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
