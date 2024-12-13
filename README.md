@@ -55,14 +55,3 @@
   <img src="https://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff" height="30"/>
   <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff" height="30"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chihuong28502&theme=radical&hide_border=false" alt="GitHub Streak Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chihuong28502&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-</p>
