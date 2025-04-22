@@ -52,8 +52,6 @@
   <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" height="30"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="30"/>
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff" height="30"/>
-  <img src="https://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff" height="30"/>
-  <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff" height="30"/>
 </p>
 
 
